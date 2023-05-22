@@ -1,1 +1,2 @@
 Main blue: #3867af
+Complementary gold: #DAA50B
